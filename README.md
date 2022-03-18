@@ -1,3 +1,5 @@
+  <img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="coding img"/>
+  
   <h1 align="center">Hi 👋, I am Rohit Tamang</h1>
 
   <h2 align="center">I love working on new and exiciting projects</h2>
