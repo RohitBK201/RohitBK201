@@ -12,7 +12,7 @@
 - 👯 I’m looking for a job
 
 
-<h2 align="left">You Can Reach me :</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RohitBK201" height="30" width="40" /></a>
 
