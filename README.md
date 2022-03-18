@@ -1,15 +1,11 @@
-### Hi 👋, I am Rohit Tamang
+ Hi 👋, I am Rohit Tamang
 
+I love working on new and exiciting projects
 
-
-
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m a Full-Stack WebDeveloper
+- 💬 I am form Darjeeling,WestBengal
 - 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about javascript and MERN stack
+- 📫 How to reach me: rohitnrdtamangbk201@gmail.com
+- 👯 I’m looking for a job
+
