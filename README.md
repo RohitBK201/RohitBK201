@@ -1,4 +1,4 @@
- Hi 👋, I am Rohit Tamang
+ <h1>Hi 👋, I am Rohit Tamang</h1>
 
 I love working on new and exiciting projects
 
