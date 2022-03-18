@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning react
 - 💬 Ask me about javascript and MERN stack
 - 📫 How to reach me: rohitnrdtamangbk201@gmail.com
-- 👯 I’m looking for a job
 
 
 <h2 align="left">Connect with me:</h2>
