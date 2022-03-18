@@ -1,6 +1,6 @@
- <h1>Hi 👋, I am Rohit Tamang</h1>
+                                                      <h1>Hi 👋, I am Rohit Tamang</h1>
 
-I love working on new and exiciting projects
+                                                <h2>I love working on new and exiciting projects</h2>
 
 - 🔭 I’m a Full-Stack WebDeveloper
 - 💬 I am form Darjeeling,WestBengal
