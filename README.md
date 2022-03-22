@@ -2,7 +2,9 @@
   
   <h1 align="center">Hi 👋, I am Rohit Tamang</h1>
 
-  <h2 align="center">I am a Full-Stack Web Developer, having keen interest to work on intresting projects with intresting peoples.</h2>
+  <h2 align="center">An aspiring full-stack web developer, enthusiastic about developing
+practical and time-saving software solutions. Looking forward to working
+in a corporate environment and for an opportunity to prove his skills.</h2>
 
 - 💬 I am form Darjeeling,WestBengal
 - 🌱 I’m currently learning react
