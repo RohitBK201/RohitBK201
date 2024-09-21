@@ -7,7 +7,6 @@ practical and time-saving software solutions. Looking forward to working
 in a corporate environment and for an opportunity to prove his skills.</h2>
 
 - 💬 I am form Darjeeling,WestBengal
-- 🌱 I’m currently learning react
 - 💬 Ask me about javascript and MERN stack
 - 📫 How to reach me: rohitnrdtamangbk201@gmail.com
 
